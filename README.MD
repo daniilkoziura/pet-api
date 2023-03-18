@@ -28,5 +28,6 @@ second is Dependency Inversion Principle (The top modules do not import the lowe
 With help of inversify, reflect-metadata and decorators managed to recreate 
 the IoC Container in which I collected dependencies for the project
 
-### Database
+### Database and Tests
 Working with Prisma a bit
+Add some UNIT and E2E tests
